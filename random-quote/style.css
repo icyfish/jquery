@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway|Roboto|Roboto+Slab);
+body {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.5rem;
+  margin: 0;
+  padding: 0;
+  background: #333;
+}
+
+h2 {
+  font-size: 3.5rem;
+  color: #fff;
+  text-align: center;
+  padding-top: 1rem;
+}
+
+.quote-box {
+  width: 600px;
+  height: 30%;
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 4rem;
+  border-radius: .3rem;
+  padding: 1rem;
+}
+.quote-box .content {
+  padding: 1rem;
+  height: auto;
+}
+.quote-box .content .quote-text {
+  text-align: center;
+  font-size: 2.8rem;
+  padding-bottom: .8rem;
+}
+.quote-box .content .quote-author {
+  font-size: 1.8rem;
+  text-align: right;
+}
+.quote-box .button {
+  margin: .2rem 5rem;
+  padding: 1.2rem;
+  display: block;
+}
+.quote-box .button .fa {
+  font-size: 2rem;
+  padding: .5rem;
+  color: #333;
+}
+.quote-box .button .fa:hover {
+  color: #55acee;
+}
+.quote-box .button .new-quote {
+  margin-left: 20rem;
+  height: 4rem;
+  border: none;
+  border-radius: .5rem;
+  color: #fff;
+  background-color: #333;
+  outline: none;
+  font-size: 1.3rem;
+  padding: .5rem 1rem;
+  cursor: pointer;
+}
+.quote-box .button .new-quote:hover {
+  background-color: #55acee;
+}
