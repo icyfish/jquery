@@ -1,7 +1,5 @@
-## Some projects in learning web development
+## Projects made with jQuery
 
-### jQuery: 
+- [Wikipedia词条查询](https://icyfish.github.io/jquery/wikipedia-viewer/)
 
-- [Wikipedia词条查询](https://icyfish.github.io/project/wikipedia-viewer/)
-
-- [名言随机生成器](https://icyfish.github.io/project/random-quote/)
+- [名言随机生成器](https://icyfish.github.io/jquery/random-quote/)
